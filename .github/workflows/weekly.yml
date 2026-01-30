@@ -1,0 +1,35 @@
+name: Weekly Kitmap Auto Update
+
+on:
+  schedule:
+    - cron: "0 18 * * 5" # Fridays 2pm EST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - run: python update_schedule.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "Kitmap Bot"
+          git config user.email "bot@github.com"
+          git add schedule.txt
+          git commit -m "Auto update schedule (+1 week)" || echo "No changes"
+          git push
+
+      - name: Post to Discord
+        env:
+          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          curl -X POST -H "Content-Type: application/json" \
+          -d "{\"content\":$(jq -Rs . < schedule.txt)}" \
+          $WEBHOOK_URL
