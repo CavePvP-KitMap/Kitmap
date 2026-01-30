@@ -1,9 +1,9 @@
-**KITMAP SCHEDULE (WEEK 1)**
+## :cavepvp: **KITMAP SCHEDULE (WEEK 1)**
 
 Below you will find the **Week 1** Kitmap schedule.
 **OP Koths** start automatically every 6 Hours.
 
-**Friday Schedule**
+## :calendar_spiral: **Friday Schedule**
 
 ⭐ **Leaderboard Reset:** 2pm EST <t:1770404400:R>
 *All Points, Reclaims, Leaderboards and All P3 S3 resets!*
@@ -11,40 +11,40 @@ Below you will find the **Week 1** Kitmap schedule.
 🐲 **Enderdragon Event:** 4pm EST <t:1770411600:R>
 🏰 **Overworld Citadel:** 5pm EST <t:1770415200:R>
 
-**Saturday Schedule**
+## :calendar_spiral: **Saturday Schedule**
 
 🤺 **Kill The King:** 1pm EST <t:1770487200:R>
 🔫 **Shooter Event:** 5pm EST <t:1770501600:R>
 
-**Sunday Schedule**
+## :calendar_spiral: **Sunday Schedule**
 
 ⚔️ **Kill Confirmed:** 1pm EST <t:1770573600:R>
 🏰 **Nether Citadel:** 2pm EST <t:1770577200:R>
 😡 **Rage Event:** 4pm EST <t:1770584400:R>
 
-**Monday Schedule**
+## :calendar_spiral: **Monday Schedule**
 
 ⚔️ **Kill Confirmed:** 3pm EST <t:1770667200:R>
 🤴 **King Event:** 4pm EST <t:1770670800:R>
 🤺 **Kill The King:** 4:30pm EST <t:1770672600:R>
 
-**Tuesday Schedule**
+## :calendar_spiral: **Tuesday Schedule**
 
 👿 **Hell Cage:** 3pm EST <t:1770753600:R>
 🧪 **Mayhem Event:** 4pm EST <t:1770757200:R>
 
-**Wednesday Schedule**
+## :calendar_spiral: **Wednesday Schedule**
 
 💥 **Double Points (24h):** 12pm EST <t:1770829200:R>
 ⚔️ **Kill Confirmed:** 2pm EST <t:1770836400:R>
 ✈️ **Traveler Event:** 3pm EST <t:1770840000:R>
 ⛪ **Chapel:** 3pm EST <t:1770840000:R>
 
-**Thursday Schedule**
+## :calendar_spiral: **Thursday Schedule**
 
 ⚔️ **EOTW:** 4pm EST <t:1770930000:R>
 
-**Friday**
+## :calendar_spiral: **Friday**
 
 🌱 **SOTW:** 4pm EST <t:1771016400:R>
 🐲 **Enderdragon Event:**  <t:1771021800:R>
