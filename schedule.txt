@@ -1,31 +1,31 @@
-:cavepvp:  KITMAP SCHEDULE (WEEK 1)
-Below you will find the Week 1 Kitmap schedule.
+:cavepvp:  KITMAP SCHEDULE (WEEK 2)
+Below you will find the Week 2 Kitmap schedule.
 OP Koths start automatically every 6 Hours.
-🗓️ Saturday Schedule
-🤺 Kill The King: 1pm EST
-🔫 Shooter Event: 5pm EST
-🗓️ SUNDAY
-⚔️ Kill Confirmed: 1pm EST
-🏰 Nether Citadel: 2pm EST
-😡 Rage Event: 4pm EST
-🗓️ MONDAY
-🏃‍♂️‍➡️ Maze Runner: 3pm EST
-🤴 King Event: 4pm EST
-🤺 Kill The King: 4:30pm EST
-🗓️ TUESDAY
-👿 Hell Cage: 3pm EST
-🧪 Mayhem Event: 4pm EST
-🗓️ WEDNESDAY
-✈️ Traveler Event: 2pm EST
-⛪ Chapel: 3pm EST
-🗓️ THURSDAY
-💥 Double Points (24h): 12pm EST
-🧱 Wallbreaker: 5pm EST
-🗓️ Friday
-⏰ Leaderboard Reset: 2pm EST
-🐲 EnderDragon Event: 4pm EST
-🏰 Overworld Citadel: 5pm EST
-All Points, Leaderboards and All P3 S3 resets!
+🗓️ :calendar_spiral: Saturday Schedule
+:person_fencing: **Kill The King:**: 1pm EST <t:1768068000:R>
+:gun: **Shooter Event:**: 5pm EST <t:1768082400:R>
+🗓️ :calendar_spiral: SUNDAY
+:crossed_swords: **Kill Confirmed:**: 1pm EST <t:1768154400:R>
+:european_castle: **Nether Citadel:**: 2pm EST <t:1768158000:R>
+:rage: **Rage Event:**: 4pm EST <t:1768165200:R>
+🗓️ :calendar_spiral: MONDAY
+:man_running_facing_right: **Maze Runner:**: 3pm EST <t:1768248000:R>
+:prince: **King Event:**: 4pm EST <t:1768251600:R>
+:person_fencing: **Kill The King:**: 4:30pm EST <t:1768253400:R>
+🗓️ :calendar_spiral: TUESDAY
+:imp: **Hell Cage:**: 3pm EST <t:1768334400:R>
+:test_tube: **Mayhem Event:**: 4pm EST<t:1768338000:R>
+🗓️ :calendar_spiral: WEDNESDAY
+:airplane: **Traveler Event:**: 2pm EST<t:1768417200:R>
+:church: **Chapel:**: 3pm EST <t:1768420800:R>
+🗓️ :calendar_spiral: THURSDAY
+:boom: **Double Points (24h):**: 12pm EST <t:1768496400:R>
+:bricks: **Wallbreaker**:: 5pm EST <t:1768514400:R>
+🗓️ :calendar_spiral: Friday
+:alarm_clock: **Leaderboard Reset:**: 2pm EST <t:1768590000:R>
+:dragon_face: **EnderDragon Event:**: 4pm EST <t:1768597200:R>
+:european_castle: **Overworld Citadel**: 5pm EST <t:1768600800:R>
+All Points,Leaderboards and All P3 S3 resets!
 
 Server IP: play.cavepvp.com
 Server IP for non premium users: np.cavepvp.com
