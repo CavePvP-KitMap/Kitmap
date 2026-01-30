@@ -2,29 +2,29 @@
 >  Below you will find the **Week 1** Kitmap schedule. 
 > **OP Koths** start automatically every 6 Hours.
 ## :calendar_spiral: Saturday Schedule
-- :person_fencing: **Kill The King:** 1pm EST <t:1772301600:R>
-- :gun: **Shooter Event:** 5pm EST <t:1772301600:R>
+- :person_fencing: **Kill The King:** 1pm EST <t:1769644800:R>
+- :gun: **Shooter Event:** 5pm EST <t:1770249600:R>
 ## :calendar_spiral: SUNDAY
-- :crossed_swords: **Kill Confirmed:** 1pm EST <t:1772301600:R>
-- :european_castle: **Nether Citadel:** 2pm EST <t:1772301600:R>
-- :rage: **Rage Event:** 4pm EST <t:1772301600:R>
+- :crossed_swords: **Kill Confirmed:** 1pm EST <t:1770854400:R>
+- :european_castle: **Nether Citadel:** 2pm EST <t:1769644800:R>
+- :rage: **Rage Event:** 4pm EST <t:1770249600:R>
 ## :calendar_spiral: MONDAY
-- :crossed_swords: **Kill Confirmed:** 3pm EST <t:1772301600:R>
-- :prince: **King Event:** 4pm EST <t:1772301600:R>
-- :person_fencing: **Kill The King:** 4:30pm EST <t:1772301600:R>
+- :crossed_swords: **Kill Confirmed:** 3pm EST <t:1770854400:R>
+- :prince: **King Event:** 4pm EST <t:1769644800:R>
+- :person_fencing: **Kill The King:** 4:30pm EST <t:1770249600:R>
 ## :calendar_spiral: TUESDAY
-- :imp: **Hell Cage:** 3pm EST <t:1772301600:R>
-- :test_tube: **Mayhem Event:** 4pm EST <t:1772301600:R>
+- :imp: **Hell Cage:** 3pm EST <t:1770854400:R>
+- :test_tube: **Mayhem Event:** 4pm EST <t:1769644800:R>
 ## :calendar_spiral:  WEDNESDAY
-- :boom: **Double Points (24h):** 12pm EST <t:1772301600:R>
-- :crossed_swords: **Kill Confirmed:** 2pm EST <t:1772301600:R>
-- :airplane: **Traveler Event:** 3pm EST <t:1772301600:R>
-- :church: **Chapel:** 3pm EST <t:1772301600:R>
+- :boom: **Double Points (24h):** 12pm EST <t:1770249600:R>
+- :crossed_swords: **Kill Confirmed:** 2pm EST <t:1770854400:R>
+- :airplane: **Traveler Event:** 3pm EST <t:1769644800:R>
+- :church: **Chapel:** 3pm EST <t:1770249600:R>
 ## :calendar_spiral: THURSDAY
-- :crossed_swords: **EOTW:** 4pm EST <t:1772301600:R>
+- :crossed_swords: **EOTW:** 4pm EST <t:1770854400:R>
 ## :calendar_spiral:  Friday 
-- :seedling: **SOTW:** 4pm EST <t:1772301600:R>
-- :dragon_face: **Enderdragon Event:** <t:1772301600:R>
+- :seedling: **SOTW:** 4pm EST <t:1769644800:R>
+- :dragon_face: **Enderdragon Event:** <t:1770249600:R>
 
 -# **Server IP:** play.cavepvp.com
 -# **Server IP for non premium users:** np.cavepvp.com
