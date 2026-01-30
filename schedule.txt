@@ -2,31 +2,31 @@
 >  Below you will find the **Week 1** Kitmap schedule. 
 > **OP Koths** start automatically every 6 Hours.
 ## 🗓️ Saturday Schedule
-- 🤺 **Kill The King:** 1pm EST <t:1770487200:R>
-- 🔫 **Shooter Event:** 5pm EST <t:1770487200:R>
+- 🤺 **Kill The King:** 1pm EST <t:1771092000:R>
+- 🔫 **Shooter Event:** 5pm EST <t:1771092000:R>
 ## 🗓️ SUNDAY
-- ⚔️ **Kill Confirmed:** 1pm EST <t:1770487200:R>
-- 🏰 **Nether Citadel:** 2pm EST <t:1770487200:R>
-- 😡 **Rage Event:** 4pm EST <t:1770487200:R>
+- ⚔️ **Kill Confirmed:** 1pm EST <t:1771092000:R>
+- 🏰 **Nether Citadel:** 2pm EST <t:1771092000:R>
+- 😡 **Rage Event:** 4pm EST <t:1771092000:R>
 ## 🗓️ MONDAY
-- ⚔️ **Kill Confirmed:** 3pm EST <t:1770487200:R>
-- 🤴 **King Event:** 4pm EST <t:1770487200:R>
-- 🤺 **Kill The King:** 4:30pm EST <t:1770487200:R>
+- ⚔️ **Kill Confirmed:** 3pm EST <t:1771092000:R>
+- 🤴 **King Event:** 4pm EST <t:1771092000:R>
+- 🤺 **Kill The King:** 4:30pm EST <t:1771092000:R>
 ## 🗓️ TUESDAY
-- 👿 **Hell Cage:** 3pm EST <t:1770487200:R>
-- 🧪 **Mayhem Event:** 4pm EST <t:1770487200:R>
+- 👿 **Hell Cage:** 3pm EST <t:1771092000:R>
+- 🧪 **Mayhem Event:** 4pm EST <t:1771092000:R>
 ## 🗓️  WEDNESDAY
-- 💥 **Double Points (24h):** 12pm EST <t:1770487200:R>
-- ⚔️ **Kill Confirmed:** 2pm EST <t:1770487200:R>
-- ✈️ **Traveler Event:** 3pm EST <t:1770487200:R>
-- ⛪ **Chapel:** 3pm EST <t:1770487200:R>
+- 💥 **Double Points (24h):** 12pm EST <t:1771092000:R>
+- ⚔️ **Kill Confirmed:** 2pm EST <t:1771092000:R>
+- ✈️ **Traveler Event:** 3pm EST <t:1771092000:R>
+- ⛪ **Chapel:** 3pm EST <t:1771092000:R>
 ## 🗓️ THURSDAY
-- ⚔️ **EOTW:** 4pm EST <t:1770487200:R>
+- ⚔️ **EOTW:** 4pm EST <t:1771092000:R>
 ## :calendar_spiral:  Friday 
-- :alarm_clock: **Leaderboard Reset:** 2pm EST <t:1769882400:R>
+- :alarm_clock: **Leaderboard Reset:** 2pm EST <t:1770487200:R>
 -# **All Points,Leaderboards and All P3 S3 resets!
- - :dragon_face: **EnderDragon Event:** 4pm EST <t:1769882400:R>
-- :european_castle:  **Overworld Citadel** 5pm EST <t:1769882400:R>
+ - :dragon_face: **EnderDragon Event:** 4pm EST <t:1770487200:R>
+- :european_castle:  **Overworld Citadel** 5pm EST <t:1770487200:R>
 
 -# **Server IP:** play.cavepvp.com
 -# **Server IP for non premium users:** np.cavepvp.com
