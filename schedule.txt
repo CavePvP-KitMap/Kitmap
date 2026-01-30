@@ -1,32 +1,33 @@
-:cavepvp:  KITMAP SCHEDULE (WEEK 2)
-Below you will find the Week 2 Kitmap schedule.
-OP Koths start automatically every 6 Hours.
-🗓️ :calendar_spiral: Saturday Schedule
-:person_fencing: **Kill The King:**: 1pm EST <t:1768068000:R>
-:gun: **Shooter Event:**: 5pm EST <t:1768082400:R>
-🗓️ :calendar_spiral: SUNDAY
-:crossed_swords: **Kill Confirmed:**: 1pm EST <t:1768154400:R>
-:european_castle: **Nether Citadel:**: 2pm EST <t:1768158000:R>
-:rage: **Rage Event:**: 4pm EST <t:1768165200:R>
-🗓️ :calendar_spiral: MONDAY
-:man_running_facing_right: **Maze Runner:**: 3pm EST <t:1768248000:R>
-:prince: **King Event:**: 4pm EST <t:1768251600:R>
-:person_fencing: **Kill The King:**: 4:30pm EST <t:1768253400:R>
-🗓️ :calendar_spiral: TUESDAY
-:imp: **Hell Cage:**: 3pm EST <t:1768334400:R>
-:test_tube: **Mayhem Event:**: 4pm EST<t:1768338000:R>
-🗓️ :calendar_spiral: WEDNESDAY
-:airplane: **Traveler Event:**: 2pm EST<t:1768417200:R>
-:church: **Chapel:**: 3pm EST <t:1768420800:R>
-🗓️ :calendar_spiral: THURSDAY
-:boom: **Double Points (24h):**: 12pm EST <t:1768496400:R>
-:bricks: **Wallbreaker**:: 5pm EST <t:1768514400:R>
-🗓️ :calendar_spiral: Friday
-:alarm_clock: **Leaderboard Reset:**: 2pm EST <t:1768590000:R>
-:dragon_face: **EnderDragon Event:**: 4pm EST <t:1768597200:R>
-:european_castle: **Overworld Citadel**: 5pm EST <t:1768600800:R>
-All Points,Leaderboards and All P3 S3 resets!
+## <:cavepvp:1446033457884041226>  KITMAP SCHEDULE (WEEK 1)
+>  Below you will find the **Week 1** Kitmap schedule. 
+> **OP Koths** start automatically every 6 Hours.
+## 🗓️ Saturday Schedule
+- 🤺 **Kill The King:** 1pm EST <t:1769882400:R>
+- 🔫 **Shooter Event:** 5pm EST <t:1769882400:R>
+## 🗓️ SUNDAY
+- ⚔️ **Kill Confirmed:** 1pm EST <t:1769882400:R>
+- 🏰 **Nether Citadel:** 2pm EST <t:1769882400:R>
+- 😡 **Rage Event:** 4pm EST <t:1769882400:R>
+## 🗓️ MONDAY
+- ⚔️ **Kill Confirmed:** 3pm EST <t:1769882400:R>
+- 🤴 **King Event:** 4pm EST <t:1769882400:R>
+- 🤺 **Kill The King:** 4:30pm EST <t:1769882400:R>
+## 🗓️ TUESDAY
+- 👿 **Hell Cage:** 3pm EST <t:1769882400:R>
+- 🧪 **Mayhem Event:** 4pm EST <t:1769882400:R>
+## 🗓️  WEDNESDAY
+- 💥 **Double Points (24h):** 12pm EST <t:1769882400:R>
+- ⚔️ **Kill Confirmed:** 2pm EST <t:1769882400:R>
+- ✈️ **Traveler Event:** 3pm EST <t:1769882400:R>
+- ⛪ **Chapel:** 3pm EST <t:1769882400:R>
+## 🗓️ THURSDAY
+- ⚔️ **EOTW:** 4pm EST <t:1769882400:R>
+## :calendar_spiral:  Friday 
+- :alarm_clock: **Leaderboard Reset:** 2pm EST <t:1769277600:R>
+-# **All Points,Leaderboards and All P3 S3 resets!
+ - :dragon_face: **EnderDragon Event:** 4pm EST <t:1769277600:R>
+- :european_castle:  **Overworld Citadel** 5pm EST <t:1769277600:R>
 
-Server IP: play.cavepvp.com
-Server IP for non premium users: np.cavepvp.com
-Store: store.cavepvp.com
+-# **Server IP:** play.cavepvp.com
+-# **Server IP for non premium users:** np.cavepvp.com
+-# **Store:** [store.cavepvp.com](<https://store.cavepvp.com>)
